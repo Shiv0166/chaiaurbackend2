@@ -5,3 +5,4 @@ structure aisa hi hona chahiye
 
 
 we install prettier so is do automatically format our code in a clean and consistent way 
+# .prettierignore ka use kr rhe h taki in cheejo pr na format krdena 
